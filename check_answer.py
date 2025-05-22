@@ -6,6 +6,10 @@ if __name__ == "__main__":
         "text": "Was ist die Hauptstadt von Frankreich?",
         "options": ["Berlin", "Paris", "Madrid", "Rom"],
         "correct": 1
+        question = {
+        "text": "Welche Note hat Leon heute mal wieder Geschrieben?",
+        "options": ["mal wieder eine 5", "6", "5+", "5-"],
+        "correct": 1
     }
 
     answer = 1
